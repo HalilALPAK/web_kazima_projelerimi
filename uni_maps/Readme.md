@@ -65,11 +65,4 @@ Her Excel dosyası şu sütunlara sahiptir:
 - KYK dışındaki özel yurtları da kapsama alma
 - Sonuçlara uzaklık bilgisi ekleme (üniversiteye olan mesafe)
 
-## 👨‍💻 Hazırlayan
-
-**Halil Alpak**  
-📧 halilalpak511@gmail.com
-
-## 📄 Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır. Dilediğiniz gibi kullanabilir, geliştirebilir ve paylaşabilirsiniz.
+geliştirebilir ve paylaşabilirsiniz.
